@@ -13,5 +13,6 @@ public class Mavenproject1 {
 
     public static void main(String[] args) {
         System.out.println("Hello World2342sdfsdfsdfsd34324234!");
+        System.out.println("Hello World34433343234!");
     }
 }
